@@ -65,4 +65,4 @@ We welcome contributions! Please fork the repository and create a pull request f
 
 ## ChatBot
 
-You can access the chatbot [here](https://geminichatbot-ohps.onrender.com/).
+You can access the ChatBot  [ChatBot](https://geminichatbot-ohps.onrender.com/).
