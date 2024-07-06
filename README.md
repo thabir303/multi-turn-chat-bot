@@ -30,8 +30,8 @@ npm install
 npm start
 ```
 
-###User Manual
-
+### User Manual
+## Using the Gemini AI Chatbot
 Accessing the Chatbot
 Navigate to the homepage of the website where you will find the chatbot interface.
 
@@ -44,10 +44,10 @@ Click the "Surprise me" button to get a random question suggestion for the chatb
 Clear Chat
 Use the clear button to reset the chat history and start a new conversation.
 
-###Example Queries
+### Example Queries
 "Who won the latest Nobel Peace Prize?"
 "Where does pizza come from?"
 "How do you make a BLT sandwich?"
 
-###Contributing
+### Contributing
 We welcome contributions! Please fork the repository and create a pull request for any feature additions or bug fixes.
