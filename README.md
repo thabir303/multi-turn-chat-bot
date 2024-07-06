@@ -35,17 +35,7 @@ Follow these steps to set up the project locally:
     GOOGLE_API_KEY=your_api_key_here
     PORT=8000
     ```
-
-## Deployment
-
-To deploy the site using Render, follow these steps:
-
-- **Root Directory**: `client`
-- **Build Command**: `npm install && npm run build`
-- **Publish Directory**: `build`
-
-Ensure your Render configuration matches the above settings for a successful deployment.
-
+    
 ## User Manual
 
 ### Using the Gemini AI Chatbot
