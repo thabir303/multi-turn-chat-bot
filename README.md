@@ -7,7 +7,10 @@ Welcome to Gemini AI Chatbot! This website features an advanced AI chatbot desig
 - **Interactive Chat**: Engage in dynamic conversations with the AI chatbot.
 - **User-Friendly Interface**: Clean and intuitive design for an enhanced user experience.
 - **Powered by Advanced AI**: Uses state-of-the-art AI technology for intelligent responses.
-- **Astrological Theme**: Incorporates elements inspired by the Gemini astrological symbol.
+- **Images**: Upload PNG, JPEG images to get descriptions or answers based on the image content.
+- **PDFs**: Upload PDF documents to extract and analyze the text content.
+- **Videos**: Upload MP4, MKV videos to extract key frames and analyze them.
+- **Error Handling**: Validates input formats and provides meaningful error messages for invalid inputs.
 
 ## Setup Instructions
 
@@ -29,7 +32,7 @@ Follow these steps to set up the project locally:
     npm install
     npm start
     ```
-
+    
 2. Create a `.env` file in the server directory and add your Google API key:
     ```plaintext
     GOOGLE_API_KEY=your_api_key_here
@@ -46,12 +49,14 @@ Navigate to the homepage of the website where you will find the chatbot interfac
 #### Starting a Conversation
 Type your message in the input box and press enter or click the send button.
 
+#### Uploading Files
+You can upload images, PDFs, and videos to get intelligent responses based on the content. Simply click on the file input, select your file, and send.
+
 #### Surprise Me Feature
 Click the "Surprise me" button to get a random question suggestion for the chatbot.
 
 #### Clear Chat
 Use the clear button to reset the chat history and start a new conversation.
-
 
 ### Example Queries
 
@@ -63,6 +68,7 @@ Use the clear button to reset the chat history and start a new conversation.
 
 We welcome contributions! Please fork the repository and create a pull request for any feature additions or bug fixes.
 
-## ChatBot
+### ChatBot
 
-You can access the ChatBot  [ChatBot](https://geminichatbot-ohps.onrender.com/).
+You can access the ChatBot [GeminiMind](https://geminimind.onrender.com).
+
