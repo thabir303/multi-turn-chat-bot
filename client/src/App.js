@@ -66,7 +66,7 @@ const App = () => {
         body: formData,
       };
 
-      const response = await fetch('http://localhost:8000/gemini', options);
+      const response = await fetch('https://multi-turn-chat-bot-1.onrender.com/gemini', options);
       if (!response.ok) {
         const errorData = await response.json();
         throw new Error(errorData.error);
