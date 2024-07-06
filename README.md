@@ -1,4 +1,4 @@
-# Gemini AI Chatbot
+# Multi-Turn Chatbot
 
 Welcome to Gemini AI Chatbot! This website features an advanced AI chatbot designed to provide an interactive and friendly user experience. Powered by the latest generative AI technology, Gemini AI Chatbot is your companion for all sorts of queries and conversations.
 
