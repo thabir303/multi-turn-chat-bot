@@ -47,7 +47,7 @@ const App = () => {
           'Content-Type': 'application/json',
         },
       };
-      const response = await fetch('http://localhost:8000/gemini', options);
+      const response = await fetch('https://chatbot-geminiapi-2yce.onrender.com/gemini', options);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
