@@ -19,8 +19,34 @@ Follow these steps to set up the project locally:
 - npm (version 6.x or higher)
 - Git
 
-### Clone the Repository
+### Setup Instructions
 
+1. Clone the repository:
 ```bash
 git clone https://github.com/thabir303/multi-turn-chat-bot.git
 cd multi-turn-chat-bot
+cd client
+npm install
+npm start
+
+###User Manual
+
+Accessing the Chatbot
+Navigate to the homepage of the website where you will find the chatbot interface.
+
+Starting a Conversation
+Type your message in the input box and press enter or click the send button.
+
+Surprise Me Feature
+Click the "Surprise me" button to get a random question suggestion for the chatbot.
+
+Clear Chat
+Use the clear button to reset the chat history and start a new conversation.
+
+###Example Queries
+"Who won the latest Nobel Peace Prize?"
+"Where does pizza come from?"
+"How do you make a BLT sandwich?"
+
+###Contributing
+We welcome contributions! Please fork the repository and create a pull request for any feature additions or bug fixes.
